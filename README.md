@@ -1,7 +1,7 @@
 # RF-V28
-List of valid sms commands for the tracker rf-v28 from reachfar
+Valid sms commands for the tracker rf-v28 from reachfar
 
-Check out: https://ands.dk/onewebmedia/RF-V28_user.pdf for a list of commands.
+Check out: https://ands.dk/onewebmedia/RF-V28_user.pdf for a list of commands. This is a extension.
 
 https://github.com/tananaev/traccar/files/213814/3g.elec.comm.protocol.docx for the data protocol.
 
