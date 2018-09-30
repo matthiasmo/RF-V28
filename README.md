@@ -5,7 +5,9 @@ Check out: https://ands.dk/onewebmedia/RF-V28_user.pdf for a list of commands.
 
 https://github.com/tananaev/traccar/files/213814/3g.elec.comm.protocol.docx for the data protocol.
 
-Standard ip settings: ip,113.81.229.9,5900# (doesn't reset with factory reset)
+Standard ip settings:
+
+	ip,113.81.229.9,5900# (doesn't reset with factory reset)
 
 traccar protocoll: watch , port 5013
 
