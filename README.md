@@ -7,9 +7,9 @@ https://github.com/tananaev/traccar/files/213814/3g.elec.comm.protocol.docx for 
 
 Standard ip settings:
 
-	ip,113.81.229.9,5900# (doesn't reset with factory reset)
+	ip,113.81.229.9,5013# (doesn't reset with factory reset)
 
-traccar protocoll: watch , port 5013
+traccar protocoll: watch , port 5093
 
 	ts#
 
