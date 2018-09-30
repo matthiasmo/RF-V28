@@ -9,66 +9,66 @@ Standard ip settings: ip,113.81.229.9,5900# (doesn't reset with factory reset)
 
 traccar protocoll: watch , port 5013
 
-ts#
+	ts#
 
-  reply with config info
+		reply with config info
 	
-von,[1-4]# / voff#
+	von,[1-4]# / voff#
 
-  vibration alarm, 4 is lowest sens, mod command changes this alarm type too
+		vibration alarm, 4 is lowest sens, mod command changes this alarm type too
 	
-non,[0-1?]#
+	non,[0-1?]#
 
-  noise alarm?
+		  noise alarm?
 	
-verno#
+	verno#
 
-  replies with version number
+		  replies with version number
 	
-sms,[0-1]#
+	sms,[0-1]#
 
-  set sending of sms
+  		set sending of sms
 	
-aon,[0-1]#
+	aon,[0-1]#
 
-  battery alarm
+ 		battery alarm
 	
-url#
+	url#
 
-  send LBS data or google maps link
+  		send LBS data or google maps link
 	
-gprsgps,[0-1],[0-1]#
+	gprsgps,[0-1],[0-1]#
 
-  set gprs funktion and continuos gps tracking function
+  		set gprs funktion and continuos gps tracking function
 	
-upload,[sec]#
+	upload,[sec]#
 
-  set tracking interval for continuos tracking
+  		set tracking interval for continuos tracking
 	
-cr#
+	cr#
 
-  single positioning
+  		single positioning
 	
-worktime,[sec?]#
+	worktime,[sec?]#
 
-  how long to track for single positioning
+  		how long to track for single positioning
 	
-update#
+	update#
 
-  ???
+  		???
 	
-monitor,[phone nr]#
+	monitor,[phone nr]#
 
-  silently calls this number
+  		silently calls this number
 	
-hon,[0-1]#
+	hon,[0-1]#
 
-  ??? reply with the state is open/closed
+  		??? reply with the state is open/closed
 	
-find#
+	find#
 
-  lets tracker ring
+  		lets tracker ring
 	
-where#
+	where#
 
-  track & no sms
+  		track & no sms
